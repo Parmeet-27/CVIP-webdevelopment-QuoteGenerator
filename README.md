@@ -1,4 +1,5 @@
-Quote Generator
+Quote Generator:
+
 The Quote Generator is a simple and inspirational tool that allows users to:
  generate a random quote, 
  Read the quote out loud, 
